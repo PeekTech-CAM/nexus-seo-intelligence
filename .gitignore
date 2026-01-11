@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+env/
+
+# Environment files - NEVER COMMIT!
+.env
+.env.*
+*.env
+.env.backup
+*.backup
+*.bak
+
+# Streamlit secrets
+.streamlit/secrets.toml
+secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
